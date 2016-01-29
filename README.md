@@ -8,64 +8,64 @@ Data in two separate excel sheets: one for Experiment 1 data and the second for 
 
 Experiment 1 Excel Sheet Columns:
 
-Column A: IRB numbers for each participant
-Column B: Capacity numbers (ranging from 6-9) for each participant, as determined by accuracy in the capacity test
-Column C: Reaction times (in seconds) for the low WM load condition 
-Column D: Reaction times (in seconds) for the high WM load condition
-Column E: Reaction times (in seconds) for the low WM load condition in trials where the affording object appeared
-Column F: Reaction times (in seconds) for the low WM load condition in trials where the control object appeared
-Column G: Reaction times (in seconds) for the high WM load condition in trials where the affording object appeared
-Column H: Reaction times (in seconds) for the high WM load condition in trials where the control object appeared
-Column I: Percent correct (shown as a probability) for the low load condition
-Column J: Percent correct (shown as a probability) for the high load condition
-Column K: Percent correct (shown as a probability) for the low load condition in trials where the affording object appeared
-Column L: Percent correct (shown as a probability) for the low load condition in trials where the control object appeared
-Column M: Percent correct (shown as a probability) for the high load condition in trials where the affording object appeared
-Column N: Percent correct (shown as a probability) for the high load condition in trials where the control object appeared
-Column O: Theta frequency (4-7 Hz) amplitude (in microvolts) for the low load condition
-Column P: Theta frequency (4-7 Hz) amplitude (in microvolts) for the high load condition
-Column Q: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the affording object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column R: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the control object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column S: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the affording object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column T: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the control object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column U: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the affording object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range 
-Column V: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the control object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range 
-Column W: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the affording object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range 
-Column X: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the control object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range 
-Column Y: P300 amplitude (in microvolts) for the low load condition following the affording object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column Z: P300 amplitude (in microvolts) for the low load condition following the control object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column AA: P300 amplitude (in microvolts) for the high load condition following the affording object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column AB: P300 amplitude (in microvolts) for the high load condition following the control object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz) 
-Column AC: P100 amplitude (in microvolts) for the low load condition following the affording object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)
-Column AD: P100 amplitude (in microvolts) for the low load condition following the control object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)
-Column AE: P100 amplitude (in microvolts) for the high load condition following the affording object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)
-Column AF: P100 amplitude (in microvolts) for the high load condition following the control object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)
-Column AG: P100 amplitude (in microvolts) for the low load condition following the affording object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)
-Column AH: P100 amplitude (in microvolts) for the low load condition following the control object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)
-Column AI: P100 amplitude (in microvolts) for the high load condition following the affording object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)
-Column AJ: P100 amplitude (in microvolts) for the high load condition following the control object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)
-
-Experiment 2 Excel Sheet Columns:
-
-Column A: IRB numbers for each participant
-Column B: Capacity numbers (ranging from 6-9) for each participant, as determined by accuracy in the capacity test
-Column C: Reaction times (in seconds) for the low WM load condition 
-Column D: Reaction times (in seconds) for the high WM load condition
-Column E: Reaction times (in seconds) for the low WM load condition in trials where the affording object appeared
-Column F: Reaction times (in seconds) for the low WM load condition in trials where the control object appeared
-Column G: Reaction times (in seconds) for the high WM load condition in trials where the affording object appeared
-Column H: Reaction times (in seconds) for the high WM load condition in trials where the control object appeared
-Column I: Percent correct (shown as a probability) for the low load condition
-Column J: Percent correct (shown as a probability) for the high load condition
-Column K: Percent correct (shown as a probability) for the low load condition in trials where the affording object appeared
-Column L: Percent correct (shown as a probability) for the low load condition in trials where the control object appeared
-Column M: Percent correct (shown as a probability) for the high load condition in trials where the affording object appeared
-Column N: Percent correct (shown as a probability) for the high load condition in trials where the control object appeared
-Column O: Hit rate (shown as a probability) for the low load condition
-Column P: False alarm rate (shown as a probability) for the low load condition
-Column Q: Hit rate (shown as a probability) for the high load condition
-Column R: False alarm rate (shown as a probability) for the high load condition
-Column S: Long intracortical inhibition percentage in the low load condition before the onset of the object
-Column T: Long intracortical inhibition percentage in the high load condition before the onset of the object
-Column U: Long intracortical inhibition percentage in the low load condition after the onset of the object
-Column V: Long intracortical inhibition percentage in the high load condition after the onset of the object
+Column A: IRB numbers for each participant  
+Column B: Capacity numbers (ranging from 6-9) for each participant, as determined by accuracy in the capacity test  
+Column C: Reaction times (in seconds) for the low WM load condition   
+Column D: Reaction times (in seconds) for the high WM load condition  
+Column E: Reaction times (in seconds) for the low WM load condition in trials where the affording object appeared  
+Column F: Reaction times (in seconds) for the low WM load condition in trials where the control object appeared  
+Column G: Reaction times (in seconds) for the high WM load condition in trials where the affording object appeared  
+Column H: Reaction times (in seconds) for the high WM load condition in trials where the control object appeared  
+Column I: Percent correct (shown as a probability) for the low load condition  
+Column J: Percent correct (shown as a probability) for the high load condition  
+Column K: Percent correct (shown as a probability) for the low load condition in trials where the affording object appeared  
+Column L: Percent correct (shown as a probability) for the low load condition in trials where the control object appeared  
+Column M: Percent correct (shown as a probability) for the high load condition in trials where the affording object appeared  
+Column N: Percent correct (shown as a probability) for the high load condition in trials where the control object appeared  
+Column O: Theta frequency (4-7 Hz) amplitude (in microvolts) for the low load condition  
+Column P: Theta frequency (4-7 Hz) amplitude (in microvolts) for the high load condition  
+Column Q: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the affording object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column R: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the control object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column S: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the affording object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column T: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the control object in the 100-750 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column U: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the affording object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range   
+Column V: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the low load condition following the control object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range   
+Column W: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the affording object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range   
+Column X: Lower mu frequency (7-10 Hz) amplitude (in microvolts) for the high load condition following the control object in the left hemisphere (C1, CP1, P1) in the 100-750 ms time range   
+Column Y: P300 amplitude (in microvolts) for the low load condition following the affording object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column Z: P300 amplitude (in microvolts) for the low load condition following the control object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column AA: P300 amplitude (in microvolts) for the high load condition following the affording object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column AB: P300 amplitude (in microvolts) for the high load condition following the control object in the 300-500 ms time range over centroparietal midline electrodes (Cz, CPz, Pz)   
+Column AC: P100 amplitude (in microvolts) for the low load condition following the affording object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)  
+Column AD: P100 amplitude (in microvolts) for the low load condition following the control object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)  
+Column AE: P100 amplitude (in microvolts) for the high load condition following the affording object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)  
+Column AF: P100 amplitude (in microvolts) for the high load condition following the control object in the 90-120 ms time range over left hemisphere occipital parietal electrodes (O1, PO3, PO7)  
+Column AG: P100 amplitude (in microvolts) for the low load condition following the affording object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)  
+Column AH: P100 amplitude (in microvolts) for the low load condition following the control object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)  
+Column AI: P100 amplitude (in microvolts) for the high load condition following the affording object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)  
+Column AJ: P100 amplitude (in microvolts) for the high load condition following the control object in the 90-120 ms time range over right hemisphere occipital parietal electrodes (O2, PO4, PO8)  
+  
+Experiment 2 Excel Sheet Columns:  
+  
+Column A: IRB numbers for each participant  
+Column B: Capacity numbers (ranging from 6-9) for each participant, as determined by accuracy in the capacity test  
+Column C: Reaction times (in seconds) for the low WM load condition     
+Column D: Reaction times (in seconds) for the high WM load condition  
+Column E: Reaction times (in seconds) for the low WM load condition in trials where the affording object appeared  
+Column F: Reaction times (in seconds) for the low WM load condition in trials where the control object appeared  
+Column G: Reaction times (in seconds) for the high WM load condition in trials where the affording object appeared  
+Column H: Reaction times (in seconds) for the high WM load condition in trials where the control object appeared  
+Column I: Percent correct (shown as a probability) for the low load condition  
+Column J: Percent correct (shown as a probability) for the high load condition  
+Column K: Percent correct (shown as a probability) for the low load condition in trials where the affording object appeared     
+Column L: Percent correct (shown as a probability) for the low load condition in trials where the control object appeared  
+Column M: Percent correct (shown as a probability) for the high load condition in trials where the affording object appeared  
+Column N: Percent correct (shown as a probability) for the high load condition in trials where the control object appeared  
+Column O: Hit rate (shown as a probability) for the low load condition  
+Column P: False alarm rate (shown as a probability) for the low load condition  
+Column Q: Hit rate (shown as a probability) for the high load condition  
+Column R: False alarm rate (shown as a probability) for the high load condition  
+Column S: Long intracortical inhibition percentage in the low load condition before the onset of the object  
+Column T: Long intracortical inhibition percentage in the high load condition before the onset of the object  
+Column U: Long intracortical inhibition percentage in the low load condition after the onset of the object  
+Column V: Long intracortical inhibition percentage in the high load condition after the onset of the object  
