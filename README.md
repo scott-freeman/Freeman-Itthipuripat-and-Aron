@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Freeman-Itthipuripat-and-Aron
 
 This repository contains raw data for the following paper:
@@ -69,3 +70,6 @@ Column S: Long intracortical inhibition percentage in the low load condition bef
 Column T: Long intracortical inhibition percentage in the high load condition before the onset of the object  
 Column U: Long intracortical inhibition percentage in the low load condition after the onset of the object  
 Column V: Long intracortical inhibition percentage in the high load condition after the onset of the object  
+=======
+# Freeman-Itthipuripat-and-Aron
+>>>>>>> parent of cf093cf... Update README.md
